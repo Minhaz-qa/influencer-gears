@@ -1,0 +1,26 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo {
+    margin-top: 87px;
+    margin-left: 120px;
+}
+
+.nav-icon {
+    margin-top: 95px;
+    justify-content: space-between;
+    margin-right: 120px;
+    padding: 20px;
+}
+
+.nav-icon a {
+    text-decoration: none;
+
+}
